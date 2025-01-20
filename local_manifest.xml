@@ -5,11 +5,11 @@
                   fetch="https://github.com" />
 
  <!-- Trees -->
-<project path="device/oneplus/larry" name="anshedu/android_device_oneplus_larry" remote="ghub" revision="PixelOS-15" />
+<project path="device/oneplus/larry" name="anshedu/android_device_oneplus_larry" remote="ghub" revision="aosp" />
 <project path="vendor/oneplus/larry" name="Teamhackneyed/proprietary_vendor_oneplus_larry" remote="ghub" revision="lineage-22.1" />
 <project path="kernel/oneplus/sm6375" name="Teamhackneyed/android_kernel_oneplus_sm6375" remote="ghub" revision="lineage-22.1" />
-<project path="device/oneplus/sm6375-common" name="anshedu/android_device_oneplus_sm6375-common" remote="ghub" revision="PixelOS-15" />
+<project path="device/oneplus/sm6375-common" name="anshedu/android_device_oneplus_sm6375-common" remote="ghub" revision="aosp" />
 <project path="vendor/oneplus/sm6375-common" name="Teamhackneyed/proprietary_vendor_oneplus_sm6375-common" remote="ghub" revision="lineage-22.1"  />
-<project path="hardware/oplus" name="anshedu/android_hardware_oplus" remote="ghub" revision="PixelOS-15" />
+<project path="hardware/oplus" name="anshedu/android_hardware_oplus" remote="ghub" revision="aosp" />
           
 </manifest>
